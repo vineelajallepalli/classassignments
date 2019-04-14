@@ -1,0 +1,10 @@
+div
+{   
+    text-align: center;
+    background-color: lightgrey;
+  width: 500px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 400px;
+  margin-top: 10%;
+}
